@@ -1,0 +1,12 @@
+## Interface: 110005, 110002
+## Title: BigWigs [|cff3eb489Final Fantasy Victory Fanfares|r]
+## Notes: Final Fantasy Victory Fanfares for BigWigs
+## Author: Aurialiya
+## Version: 0.0.1
+## IconTexture: Interface\AddOns\BigWigs_FF\Icons\icon.tga
+## Dependencies: BigWigs
+## X-Curse-Project-ID: 9999
+
+#Main Files
+BigWigs_FF.lua
+
